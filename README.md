@@ -1,2 +1,3 @@
 "# synched-canvasjs" 
-# anular-canvasjs-from-csv
+# angular-canvasjs-from-csv
+Clone the repository then npm install
